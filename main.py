@@ -1,4 +1,4 @@
-import playcenter.oron_games as math_games
+import playcenter.math_games as math_games
 import playcenter.accounts as data
 import playcenter.ticktacktoe as ticktacktoe
 import playcenter.word_game as word_game
